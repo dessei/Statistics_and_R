@@ -1,4 +1,4 @@
-# Statistics_and_R
+# Statistics and R
 ## Motivation
 I recently got interested in R and I was looking to relearn some statistics (as I maybe didn't care about that as much as I should have while 'learning' about it in university) basics to better be able to actually use and understand Rs capabilities.
 ## Goal
